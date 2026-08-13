@@ -1,0 +1,259 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Adapters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vue.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:25:29Z",
+            "owner": "inertiajs",
+            "repo": "inertia",
+            "stars": 8095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:25:29Z",
+            "owner": "inertiajs",
+            "repo": "inertia",
+            "stars": 8095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:25:29Z",
+            "owner": "inertiajs",
+            "repo": "inertia",
+            "stars": 8095
+          }
+        }
+      ],
+      "title": "Client-side"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Laravel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-04T22:00:53Z",
+            "owner": "inertiajs",
+            "repo": "inertia-laravel",
+            "stars": 2469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-22T05:47:34Z",
+            "owner": "inertiajs",
+            "repo": "inertia-rails",
+            "stars": 1220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-06T01:47:12Z",
+            "owner": "inertiajs",
+            "repo": "inertia-django",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-07-15T17:04:03Z",
+            "owner": "inertiajs",
+            "repo": "inertia-phoenix",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-27T16:53:40Z",
+            "owner": "petaki",
+            "repo": "inertia-go",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adonis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:33:59Z",
+            "owner": "adonisjs",
+            "repo": "inertia",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastAPI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T13:38:51Z",
+            "owner": "hxjo",
+            "repo": "fastapi-inertia",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-24T14:49:03Z",
+            "owner": "j0ack",
+            "repo": "flask-inertia",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Echo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-21T01:55:43Z",
+            "owner": "kohkimakimoto",
+            "repo": "inertia-echo",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symfony",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-26T12:02:34Z",
+            "owner": "nytodev",
+            "repo": "inertia-bundle",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2026-06-18T19:04:01Z",
+            "owner": "matrei",
+            "repo": "grails-inertia-plugin",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Server-side"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Data",
+          "description": "Larave package for working with data objects, with built-in support for Inertia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:48:48Z",
+            "owner": "spatie",
+            "repo": "laravel-data",
+            "stars": 1779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Navigation",
+          "description": "Laravel package for generating menus, breadcrumbs and other navigational elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-31T10:26:26Z",
+            "owner": "spatie",
+            "repo": "laravel-navigation",
+            "stars": 585
+          }
+        }
+      ],
+      "title": "Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:36.938Z",
+    "original_repository": "innocenzi/awesome-inertiajs",
+    "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
+    "enhanced_repository": "enhansome/enhansome-inertiajs",
+    "enhanced_repository_description": null,
+    "title": "Awesome inertiajs with stars"
+  }
+}
