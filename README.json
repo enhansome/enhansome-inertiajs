@@ -19,7 +19,7 @@
             "last_commit": "2026-08-11T18:25:29Z",
             "owner": "inertiajs",
             "repo": "inertia",
-            "stars": 8096
+            "stars": 8095
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-11T18:25:29Z",
             "owner": "inertiajs",
             "repo": "inertia",
-            "stars": 8096
+            "stars": 8095
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-11T18:25:29Z",
             "owner": "inertiajs",
             "repo": "inertia",
-            "stars": 8096
+            "stars": 8095
           }
         }
       ],
@@ -165,7 +165,7 @@
             "last_commit": "2025-06-24T14:49:03Z",
             "owner": "j0ack",
             "repo": "flask-inertia",
-            "stars": 50
+            "stars": 49
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-06-26T09:48:48Z",
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1780
+            "stars": 1779
           }
         },
         {
@@ -249,7 +249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T00:27:45.566Z",
+    "last_updated": "2026-08-18T00:27:34.367Z",
     "original_repository": "innocenzi/awesome-inertiajs",
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
     "enhanced_repository": "enhansome/enhansome-inertiajs",
