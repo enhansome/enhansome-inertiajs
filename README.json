@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T18:25:29Z",
+            "last_commit": "2026-08-18T21:26:45Z",
             "owner": "inertiajs",
             "repo": "inertia",
             "stars": 8095
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T18:25:29Z",
+            "last_commit": "2026-08-18T21:26:45Z",
             "owner": "inertiajs",
             "repo": "inertia",
             "stars": 8095
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T18:25:29Z",
+            "last_commit": "2026-08-18T21:26:45Z",
             "owner": "inertiajs",
             "repo": "inertia",
             "stars": 8095
@@ -134,7 +134,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T17:33:59Z",
+            "last_commit": "2026-08-18T09:30:00Z",
             "owner": "adonisjs",
             "repo": "inertia",
             "stars": 155
@@ -227,7 +227,7 @@
             "last_commit": "2026-06-26T09:48:48Z",
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1779
+            "stars": 1781
           }
         },
         {
@@ -249,7 +249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T00:27:34.367Z",
+    "last_updated": "2026-08-19T00:27:38.461Z",
     "original_repository": "innocenzi/awesome-inertiajs",
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
     "enhanced_repository": "enhansome/enhansome-inertiajs",
