@@ -1,220 +1,237 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vue.js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174200859,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:31:50Z",
+                "owner": "inertiajs",
+                "repo": "inertia",
+                "stars": 8097
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174200859,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:31:50Z",
+                "owner": "inertiajs",
+                "repo": "inertia",
+                "stars": 8097
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Svelte",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174200859,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:31:50Z",
+                "owner": "inertiajs",
+                "repo": "inertia",
+                "stars": 8097
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Client-side"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Laravel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174395905,
+                "language": "PHP",
+                "last_commit": "2026-08-04T22:00:53Z",
+                "owner": "inertiajs",
+                "repo": "inertia-laravel",
+                "stars": 2470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rails",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207580518,
+                "language": "Ruby",
+                "last_commit": "2026-08-15T18:13:31Z",
+                "owner": "inertiajs",
+                "repo": "inertia-rails",
+                "stars": 1223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Django",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 523760979,
+                "language": "Python",
+                "last_commit": "2026-08-16T19:55:32Z",
+                "owner": "inertiajs",
+                "repo": "inertia-django",
+                "stars": 593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Phoenix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658439072,
+                "language": "Elixir",
+                "last_commit": "2026-07-15T17:04:03Z",
+                "owner": "inertiajs",
+                "repo": "inertia-phoenix",
+                "stars": 497
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290590382,
+                "language": "Go",
+                "last_commit": "2026-04-27T16:53:40Z",
+                "owner": "petaki",
+                "repo": "inertia-go",
+                "stars": 318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adonis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 719249436,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T09:30:00Z",
+                "owner": "adonisjs",
+                "repo": "inertia",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastAPI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 781530912,
+                "language": "Python",
+                "last_commit": "2025-05-25T13:38:51Z",
+                "owner": "hxjo",
+                "repo": "fastapi-inertia",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flask",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 362493111,
+                "language": "Python",
+                "last_commit": "2025-06-24T14:49:03Z",
+                "owner": "j0ack",
+                "repo": "flask-inertia",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Echo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352534429,
+                "language": "Go",
+                "last_commit": "2026-03-21T01:55:43Z",
+                "owner": "kohkimakimoto",
+                "repo": "inertia-echo",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Symfony",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192811986,
+                "language": "PHP",
+                "last_commit": "2026-07-26T12:02:34Z",
+                "owner": "nytodev",
+                "repo": "inertia-bundle",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grails",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 551502208,
+                "language": "Groovy",
+                "last_commit": "2026-06-18T19:04:01Z",
+                "owner": "matrei",
+                "repo": "grails-inertia-plugin",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Server-side"
+        }
+      ],
       "title": "Adapters"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Vue.js",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:26:45Z",
-            "owner": "inertiajs",
-            "repo": "inertia",
-            "stars": 8095
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "React",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:26:45Z",
-            "owner": "inertiajs",
-            "repo": "inertia",
-            "stars": 8095
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Svelte",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:26:45Z",
-            "owner": "inertiajs",
-            "repo": "inertia",
-            "stars": 8095
-          }
-        }
-      ],
-      "title": "Client-side"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Laravel",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-04T22:00:53Z",
-            "owner": "inertiajs",
-            "repo": "inertia-laravel",
-            "stars": 2470
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rails",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-15T18:13:31Z",
-            "owner": "inertiajs",
-            "repo": "inertia-rails",
-            "stars": 1223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Django",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T19:55:32Z",
-            "owner": "inertiajs",
-            "repo": "inertia-django",
-            "stars": 593
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Phoenix",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-07-15T17:04:03Z",
-            "owner": "inertiajs",
-            "repo": "inertia-phoenix",
-            "stars": 497
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-27T16:53:40Z",
-            "owner": "petaki",
-            "repo": "inertia-go",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adonis",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T09:30:00Z",
-            "owner": "adonisjs",
-            "repo": "inertia",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FastAPI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-25T13:38:51Z",
-            "owner": "hxjo",
-            "repo": "fastapi-inertia",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flask",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-24T14:49:03Z",
-            "owner": "j0ack",
-            "repo": "flask-inertia",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Echo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-21T01:55:43Z",
-            "owner": "kohkimakimoto",
-            "repo": "inertia-echo",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Symfony",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-26T12:02:34Z",
-            "owner": "nytodev",
-            "repo": "inertia-bundle",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Grails",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-06-18T19:04:01Z",
-            "owner": "matrei",
-            "repo": "grails-inertia-plugin",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Server-side"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -223,11 +240,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367364180,
             "language": "PHP",
             "last_commit": "2026-06-26T09:48:48Z",
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1781
+            "stars": 1782
           }
         },
         {
@@ -237,6 +255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263643110,
             "language": "PHP",
             "last_commit": "2026-01-31T10:26:26Z",
             "owner": "spatie",
@@ -249,8 +268,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T00:27:38.461Z",
+    "last_updated": "2026-08-19T12:34:20.522Z",
     "original_repository": "innocenzi/awesome-inertiajs",
+    "original_repository_id": 291801147,
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
     "enhanced_repository": "enhansome/enhansome-inertiajs",
     "enhanced_repository_description": null,
