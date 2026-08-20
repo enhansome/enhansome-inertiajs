@@ -35,7 +35,7 @@
 * [Documentation](http://inertiajs.com) - Official website and documentation.
 * [Twitter](https://twitter.com/inertiajs) - Official Twitter account.
 * [Discord](https://discord.gg/gwgxN8Y) - Official Discord server.
-* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 59 | 🐛 2 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
+* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 60 | 🐛 2 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
 * [Organization](https://github.com/inertiajs) - Official GitHub organization.
 
 ## Adapters
@@ -49,11 +49,11 @@
 ### Server-side
 
 * `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,470 | 🐛 3 | 🌐 PHP | 📅 2026-08-04
-* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,223 | 🐛 8 | 🌐 Ruby | 📅 2026-08-15
+* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,224 | 🐛 9 | 🌐 Ruby | 📅 2026-08-19
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 593 | 🐛 5 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 497 | 🐛 2 | 🌐 Elixir | 📅 2026-07-15
 * [Go](https://github.com/petaki/inertia-go) ⭐ 318 | 🐛 0 | 🌐 Go | 📅 2026-04-27
-* `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 155 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-18
+* `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 156 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-18
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-03-21
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

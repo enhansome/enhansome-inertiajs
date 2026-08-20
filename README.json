@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 207580518,
                 "language": "Ruby",
-                "last_commit": "2026-08-15T18:13:31Z",
+                "last_commit": "2026-08-19T20:39:04Z",
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1223
+                "stars": 1224
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-18T09:30:00Z",
                 "owner": "adonisjs",
                 "repo": "inertia",
-                "stars": 155
+                "stars": 156
               }
             },
             {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:20.522Z",
+    "last_updated": "2026-08-20T00:27:38.390Z",
     "original_repository": "innocenzi/awesome-inertiajs",
     "original_repository_id": 291801147,
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
