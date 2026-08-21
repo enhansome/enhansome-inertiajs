@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T07:31:50Z",
+                "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8097
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T07:31:50Z",
+                "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8097
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T07:31:50Z",
+                "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8097
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T00:27:38.390Z",
+    "last_updated": "2026-08-21T00:30:28.642Z",
     "original_repository": "innocenzi/awesome-inertiajs",
     "original_repository_id": 291801147,
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
