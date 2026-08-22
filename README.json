@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8097
+                "stars": 8098
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8097
+                "stars": 8098
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8097
+                "stars": 8098
               }
             }
           ],
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-19T20:39:04Z",
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1224
+                "stars": 1227
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-16T19:55:32Z",
                 "owner": "inertiajs",
                 "repo": "inertia-django",
-                "stars": 593
+                "stars": 594
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-07-15T17:04:03Z",
                 "owner": "inertiajs",
                 "repo": "inertia-phoenix",
-                "stars": 497
+                "stars": 498
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 719249436,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T09:30:00Z",
+                "last_commit": "2026-08-21T06:28:48Z",
                 "owner": "adonisjs",
                 "repo": "inertia",
-                "stars": 156
+                "stars": 158
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-07-26T12:02:34Z",
                 "owner": "nytodev",
                 "repo": "inertia-bundle",
-                "stars": 19
+                "stars": 20
               }
             },
             {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T00:30:28.642Z",
+    "last_updated": "2026-08-22T00:27:59.161Z",
     "original_repository": "innocenzi/awesome-inertiajs",
     "original_repository_id": 291801147,
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
