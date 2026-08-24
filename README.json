@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8100
+                "stars": 8099
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8100
+                "stars": 8099
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T16:31:58Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8100
+                "stars": 8099
               }
             }
           ],
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-04T22:00:53Z",
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2470
+                "stars": 2469
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-19T20:39:04Z",
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1228
+                "stars": 1229
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-04-27T16:53:40Z",
                 "owner": "petaki",
                 "repo": "inertia-go",
-                "stars": 318
+                "stars": 319
               }
             },
             {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:29:30.985Z",
+    "last_updated": "2026-08-24T14:29:47.322Z",
     "original_repository": "innocenzi/awesome-inertiajs",
     "original_repository_id": 291801147,
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
