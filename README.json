@@ -235,7 +235,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Data",
+          "title": "spatie/laravel-data",
           "description": "Larave package for working with data objects, with built-in support for Inertia.",
           "children": [],
           "repo_info": {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:28:53.181Z",
+    "last_updated": "2026-08-25T06:22:20.437Z",
     "original_repository": "innocenzi/awesome-inertiajs",
     "original_repository_id": 291801147,
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
