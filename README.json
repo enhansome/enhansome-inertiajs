@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:31:58Z",
+                "last_commit": "2026-08-25T21:31:19Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8100
+                "stars": 8102
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:31:58Z",
+                "last_commit": "2026-08-25T21:31:19Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8100
+                "stars": 8102
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:31:58Z",
+                "last_commit": "2026-08-25T21:31:19Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8100
+                "stars": 8102
               }
             }
           ],
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 174395905,
                 "language": "PHP",
-                "last_commit": "2026-08-04T22:00:53Z",
+                "last_commit": "2026-08-25T14:13:14Z",
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
                 "stars": 2469
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 352534429,
                 "language": "Go",
-                "last_commit": "2026-08-23T09:13:31Z",
+                "last_commit": "2026-08-25T13:42:31Z",
                 "owner": "kohkimakimoto",
                 "repo": "inertia-echo",
                 "stars": 28
@@ -216,7 +216,7 @@
                 "archived": false,
                 "id": 551502208,
                 "language": "Groovy",
-                "last_commit": "2026-06-18T19:04:01Z",
+                "last_commit": "2026-08-25T14:49:19Z",
                 "owner": "matrei",
                 "repo": "grails-inertia-plugin",
                 "stars": 13
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:20.437Z",
+    "last_updated": "2026-08-26T00:30:06.022Z",
     "original_repository": "innocenzi/awesome-inertiajs",
     "original_repository_id": 291801147,
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",

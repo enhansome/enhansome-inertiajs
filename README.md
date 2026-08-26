@@ -42,13 +42,13 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,100 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,100 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,100 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,102 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-25
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,102 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-25
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,102 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-25
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,469 | 🐛 3 | 🌐 PHP | 📅 2026-08-04
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,469 | 🐛 5 | 🌐 PHP | 📅 2026-08-25
 * `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,229 | 🐛 9 | 🌐 Ruby | 📅 2026-08-19
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 597 | 🐛 5 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 498 | 🐛 2 | 🌐 Elixir | 📅 2026-07-15
@@ -56,9 +56,9 @@
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 158 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-21
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
-* [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-08-23
+* [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2026-08-25
 * [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 20 | 🐛 2 | 🌐 PHP | 📅 2026-07-26
-* [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 9 | 🌐 Groovy | 📅 2026-06-18
+* [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 10 | 🌐 Groovy | 📅 2026-08-25
 
 ## Hooks
 
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
