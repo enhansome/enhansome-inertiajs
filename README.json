@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T21:28:18Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8103
-              }
+                "stars": 8104
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-26T21:28:18Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8103
-              }
+                "stars": 8104
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-26T21:28:18Z",
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8103
-              }
+                "stars": 8104
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             }
           ],
           "description": null,
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 174395905,
                 "language": "PHP",
-                "last_commit": "2026-08-26T21:28:15Z",
+                "last_commit": "2026-08-27T12:31:55Z",
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2469
-              }
+                "stars": 2470
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
                 "stars": 1229
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "inertiajs",
                 "repo": "inertia-django",
                 "stars": 598
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "inertiajs",
                 "repo": "inertia-phoenix",
                 "stars": 498
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "petaki",
                 "repo": "inertia-go",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "adonisjs",
                 "repo": "inertia",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "hxjo",
                 "repo": "fastapi-inertia",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "j0ack",
                 "repo": "flask-inertia",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "kohkimakimoto",
                 "repo": "inertia-echo",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "nytodev",
                 "repo": "inertia-bundle",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "matrei",
                 "repo": "grails-inertia-plugin",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T07:14:39.967Z"
             }
           ],
           "description": null,
@@ -245,8 +259,9 @@
             "last_commit": "2026-06-26T09:48:48Z",
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1782
-          }
+            "stars": 1783
+          },
+          "first_seen": "2026-08-28T07:14:39.967Z"
         },
         {
           "node_type": "item",
@@ -260,15 +275,16 @@
             "last_commit": "2026-01-31T10:26:26Z",
             "owner": "spatie",
             "repo": "laravel-navigation",
-            "stars": 585
-          }
+            "stars": 586
+          },
+          "first_seen": "2026-08-28T07:14:39.967Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:01.427Z",
+    "last_updated": "2026-08-28T07:14:39.967Z",
     "original_repository_info": {
       "archived": false,
       "id": 291801147,
