@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.",
+                "homepage": "https://inertiajs.com",
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:28:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T10:53:19Z",
+                "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104
+                "stars": 8104,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.",
+                "homepage": "https://inertiajs.com",
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:28:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T10:53:19Z",
+                "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104
+                "stars": 8104,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.",
+                "homepage": "https://inertiajs.com",
                 "id": 174200859,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:28:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T10:53:19Z",
+                "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104
+                "stars": 8104,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             }
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Laravel adapter for Inertia.js.",
+                "homepage": "https://inertiajs.com",
                 "id": 174395905,
                 "language": "PHP",
-                "last_commit": "2026-08-27T12:31:55Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T10:55:03Z",
+                "open_issues": 7,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2470
+                "stars": 2471,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Rails adapter for Inertia.js.",
+                "homepage": "https://inertia-rails.dev/",
                 "id": 207580518,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-19T20:39:04Z",
+                "open_issues": 9,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1229
+                "stars": 1229,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -99,12 +124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Django adapter for Inertia.js",
+                "homepage": null,
                 "id": 523760979,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-16T19:55:32Z",
+                "open_issues": 6,
                 "owner": "inertiajs",
                 "repo": "inertia-django",
-                "stars": 598
+                "stars": 598,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -115,12 +145,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Phoenix adapter for Inertia.js.",
+                "homepage": "https://hexdocs.pm/inertia",
                 "id": 658439072,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-15T17:04:03Z",
+                "open_issues": 2,
                 "owner": "inertiajs",
                 "repo": "inertia-phoenix",
-                "stars": 498
+                "stars": 498,
+                "topics": [
+                  "elixir",
+                  "inertiajs"
+                ]
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -131,12 +169,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⏩ A Go adapter for Inertia.js.",
+                "homepage": null,
                 "id": 290590382,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-27T16:53:40Z",
+                "open_issues": 0,
                 "owner": "petaki",
                 "repo": "inertia-go",
-                "stars": 319
+                "stars": 319,
+                "topics": [
+                  "go",
+                  "golang",
+                  "inertiajs"
+                ]
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -147,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Inertia.js adapter for AdonisJS",
+                "homepage": null,
                 "id": 719249436,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T06:28:48Z",
+                "open_issues": 3,
                 "owner": "adonisjs",
                 "repo": "inertia",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -163,12 +215,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Inertia.js adapter for FastAPI, using the dependency injection system",
+                "homepage": "https://pypi.org/project/fastapi-inertia/",
                 "id": 781530912,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-25T13:38:51Z",
+                "open_issues": 3,
                 "owner": "hxjo",
                 "repo": "fastapi-inertia",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "fastapi",
+                  "inertia",
+                  "inertiajs",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -179,12 +241,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of https://git.joakode.fr/joack/flask-inertia/",
+                "homepage": "https://flask-inertia.readthedocs.io",
                 "id": 362493111,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-24T14:49:03Z",
+                "open_issues": 1,
                 "owner": "j0ack",
                 "repo": "flask-inertia",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "flask",
+                  "inertiajs"
+                ]
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -195,12 +265,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Inertia.js server-side adapter for Echo Go web framework.",
+                "homepage": null,
                 "id": 352534429,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-25T13:42:31Z",
+                "open_issues": 0,
                 "owner": "kohkimakimoto",
                 "repo": "inertia-echo",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "go",
+                  "golang",
+                  "inertia",
+                  "inertiajs",
+                  "labstack-echo"
+                ]
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -211,12 +292,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symfony Bundle implementing the Inertia.js",
+                "homepage": "https://packagist.org/packages/nytodev/inertia-bundle",
                 "id": 1192811986,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-26T12:02:34Z",
+                "open_issues": 2,
                 "owner": "nytodev",
                 "repo": "inertia-bundle",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "inertiajs",
+                  "php",
+                  "react",
+                  "spa",
+                  "svelte",
+                  "symfony",
+                  "symfony-bundle",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             },
@@ -227,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grails plugin for using Inertia.js",
+                "homepage": null,
                 "id": 551502208,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T14:49:19Z",
+                "open_issues": 10,
                 "owner": "matrei",
                 "repo": "grails-inertia-plugin",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
             }
@@ -254,12 +354,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful data objects for Laravel",
+            "homepage": "https://spatie.be/docs/laravel-data/",
             "id": 367364180,
             "language": "PHP",
-            "last_commit": "2026-06-26T09:48:48Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T14:25:27Z",
+            "open_issues": 11,
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1783
+            "stars": 1783,
+            "topics": [
+              "laravel",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T07:14:39.967Z"
         },
@@ -270,12 +378,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage menus, breadcrumbs, and other navigational elements in Laravel apps",
+            "homepage": null,
             "id": 263643110,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-01-31T10:26:26Z",
+            "open_issues": 0,
             "owner": "spatie",
             "repo": "laravel-navigation",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "laravel",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T07:14:39.967Z"
         }
@@ -284,15 +400,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:14:39.967Z",
+    "last_updated": "2026-08-29T04:44:17.306Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Inertia.js resources",
+      "homepage": "https://inertiajs.com",
       "id": 291801147,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-14T22:00:10Z",
+      "open_issues": 0,
       "owner": "innocenzi",
       "repo": "awesome-inertiajs",
-      "stars": 256
+      "stars": 256,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "inertiajs"
+      ]
     },
     "original_repository_sha": "533c44887881c6242b4a8b40c009a86af9f61674",
     "enhanced_repository": "enhansome/enhansome-inertiajs",
