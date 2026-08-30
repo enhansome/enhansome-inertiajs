@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104,
+                "stars": 8103,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104,
+                "stars": 8103,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104,
+                "stars": 8103,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -91,7 +91,7 @@
                 "open_issues": 7,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2471,
+                "stars": 2470,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -109,10 +109,10 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-08-19T20:39:04Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1229,
+                "stars": 1230,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -363,7 +363,7 @@
             "open_issues": 11,
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1783,
+            "stars": 1784,
             "topics": [
               "laravel",
               "php"
@@ -387,7 +387,7 @@
             "open_issues": 0,
             "owner": "spatie",
             "repo": "laravel-navigation",
-            "stars": 586,
+            "stars": 585,
             "topics": [
               "laravel",
               "php"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:14:03.539Z",
+    "last_updated": "2026-08-30T01:53:59.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
