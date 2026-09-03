@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T10:53:19Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104,
+                "stars": 8106,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -39,10 +39,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T10:53:19Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104,
+                "stars": 8106,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T10:53:19Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8104,
+                "stars": 8106,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -87,8 +87,8 @@
                 "id": 174395905,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-28T10:55:03Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-02T07:32:26Z",
+                "open_issues": 8,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
                 "stars": 2471,
@@ -174,11 +174,11 @@
                 "id": 290590382,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-01T21:16:02Z",
+                "last_commit": "2026-09-02T18:39:00Z",
                 "open_issues": 0,
                 "owner": "petaki",
                 "repo": "inertia-go",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "go",
                   "golang",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:35:27.637Z",
+    "last_updated": "2026-09-03T01:39:24.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",

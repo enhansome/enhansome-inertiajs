@@ -42,17 +42,17 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,104 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-28
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,104 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-28
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,104 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-28
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,106 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-28
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,106 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-28
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,106 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-28
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,471 | 🐛 7 | 🌐 PHP | 📅 2026-08-28
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,471 | 🐛 8 | 🌐 PHP | 📅 2026-09-02
 * `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,229 | 🐛 11 | 🌐 Ruby | 📅 2026-08-19
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 598 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 498 | 🐛 2 | 🌐 Elixir | 📅 2026-07-15
-* [Go](https://github.com/petaki/inertia-go) ⭐ 320 | 🐛 0 | 🌐 Go | 📅 2026-09-01
+* [Go](https://github.com/petaki/inertia-go) ⭐ 321 | 🐛 0 | 🌐 Go | 📅 2026-09-02
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 158 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-21
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
