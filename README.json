@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8106,
+                "stars": 8108,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 16,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8106,
+                "stars": 8108,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 16,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8106,
+                "stars": 8108,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -91,7 +91,7 @@
                 "open_issues": 8,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2471,
+                "stars": 2473,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -274,7 +274,7 @@
                 "open_issues": 0,
                 "owner": "kohkimakimoto",
                 "repo": "inertia-echo",
-                "stars": 28,
+                "stars": 27,
                 "topics": [
                   "go",
                   "golang",
@@ -363,7 +363,7 @@
             "open_issues": 11,
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1784,
+            "stars": 1786,
             "topics": [
               "laravel",
               "php"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:39:24.205Z",
+    "last_updated": "2026-09-04T01:32:51.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
