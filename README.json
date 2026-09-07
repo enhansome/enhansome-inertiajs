@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8108,
+                "stars": 8109,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8108,
+                "stars": 8109,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8108,
+                "stars": 8109,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -112,7 +112,7 @@
                 "open_issues": 11,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -270,7 +270,7 @@
                 "id": 352534429,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:07:36Z",
+                "last_commit": "2026-09-06T22:41:20Z",
                 "open_issues": 0,
                 "owner": "kohkimakimoto",
                 "repo": "inertia-echo",
@@ -363,7 +363,7 @@
             "open_issues": 14,
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1788,
+            "stars": 1789,
             "topics": [
               "laravel",
               "php"
@@ -387,7 +387,7 @@
             "open_issues": 0,
             "owner": "spatie",
             "repo": "laravel-navigation",
-            "stars": 585,
+            "stars": 586,
             "topics": [
               "laravel",
               "php"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:28:26.377Z",
+    "last_updated": "2026-09-07T01:27:04.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
