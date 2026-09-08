@@ -42,9 +42,9 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,109 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-04
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,109 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-04
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,109 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-04
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,107 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-04
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,107 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-04
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,107 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-04
 
 ### Server-side
 
@@ -56,7 +56,7 @@
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 158 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-21
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
-* [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2026-09-06
+* [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2026-09-07
 * [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 22 | 🐛 2 | 🌐 PHP | 📅 2026-07-26
 * [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 10 | 🌐 Groovy | 📅 2026-08-25
 
@@ -66,7 +66,7 @@
 
 ## Resources
 
-* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,789 | 🐛 14 | 🌐 PHP | 📅 2026-09-01 - Larave package for working with data objects, with built-in support for Inertia.
+* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,790 | 🐛 14 | 🌐 PHP | 📅 2026-09-01 - Larave package for working with data objects, with built-in support for Inertia.
 * `⭐` [Navigation](https://github.com/spatie/laravel-navigation) ⭐ 586 | 🐛 0 | 🌐 PHP | 📅 2026-01-31 - Laravel package for generating menus, breadcrumbs and other navigational elements.
 * `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
 * [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

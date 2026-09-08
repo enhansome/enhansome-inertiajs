@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T18:15:35Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8109,
+                "stars": 8107,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -39,10 +39,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T18:15:35Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8109,
+                "stars": 8107,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T18:15:35Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8109,
+                "stars": 8107,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -270,7 +270,7 @@
                 "id": 352534429,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-06T22:41:20Z",
+                "last_commit": "2026-09-07T21:39:41Z",
                 "open_issues": 0,
                 "owner": "kohkimakimoto",
                 "repo": "inertia-echo",
@@ -363,7 +363,7 @@
             "open_issues": 14,
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1789,
+            "stars": 1790,
             "topics": [
               "laravel",
               "php"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:27:04.543Z",
+    "last_updated": "2026-09-08T01:36:35.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
