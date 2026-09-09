@@ -17,8 +17,8 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:15:35Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-08T22:28:31Z",
+                "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8107,
@@ -38,8 +38,8 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:15:35Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-08T22:28:31Z",
+                "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8107,
@@ -59,8 +59,8 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:15:35Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-08T22:28:31Z",
+                "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8107,
@@ -112,7 +112,7 @@
                 "open_issues": 11,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1231,
+                "stars": 1233,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:36:35.338Z",
+    "last_updated": "2026-09-09T01:44:20.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
