@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8107,
+                "stars": 8110,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8107,
+                "stars": 8110,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8107,
+                "stars": 8110,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -91,7 +91,7 @@
                 "open_issues": 7,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2473,
+                "stars": 2474,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -108,8 +108,8 @@
                 "id": 207580518,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-19T20:39:04Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-09T06:36:51Z",
+                "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
                 "stars": 1233,
@@ -360,7 +360,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-01T10:23:39Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "spatie",
             "repo": "laravel-data",
             "stars": 1790,
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:44:20.758Z",
+    "last_updated": "2026-09-10T01:39:26.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
