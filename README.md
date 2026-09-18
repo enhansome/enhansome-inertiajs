@@ -35,23 +35,23 @@
 * [Documentation](http://inertiajs.com) - Official website and documentation.
 * [Twitter](https://twitter.com/inertiajs) - Official Twitter account.
 * [Discord](https://discord.gg/gwgxN8Y) - Official Discord server.
-* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 63 | 🐛 3 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
+* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 64 | 🐛 3 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
 * [Organization](https://github.com/inertiajs) - Official GitHub organization.
 
 ## Adapters
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,115 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-16
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,115 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-16
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,115 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,117 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,117 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,117 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
 
 ### Server-side
 
 * `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,477 | 🐛 9 | 🌐 PHP | 📅 2026-09-11
-* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,238 | 🐛 10 | 🌐 Ruby | 📅 2026-09-16
+* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,239 | 🐛 10 | 🌐 Ruby | 📅 2026-09-16
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 603 | 🐛 6 | 🌐 Python | 📅 2026-08-16
-* `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 499 | 🐛 2 | 🌐 Elixir | 📅 2026-07-15
+* `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 500 | 🐛 2 | 🌐 Elixir | 📅 2026-07-15
 * [Go](https://github.com/petaki/inertia-go) ⭐ 323 | 🐛 0 | 🌐 Go | 📅 2026-09-02
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 158 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-13
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2025-05-25
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
