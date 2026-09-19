@@ -35,7 +35,7 @@
 * [Documentation](http://inertiajs.com) - Official website and documentation.
 * [Twitter](https://twitter.com/inertiajs) - Official Twitter account.
 * [Discord](https://discord.gg/gwgxN8Y) - Official Discord server.
-* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 64 | 🐛 3 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
+* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 65 | 🐛 3 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
 * [Organization](https://github.com/inertiajs) - Official GitHub organization.
 
 ## Adapters
@@ -49,16 +49,16 @@
 ### Server-side
 
 * `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,477 | 🐛 9 | 🌐 PHP | 📅 2026-09-11
-* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,239 | 🐛 10 | 🌐 Ruby | 📅 2026-09-16
-* `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 603 | 🐛 6 | 🌐 Python | 📅 2026-08-16
-* `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 500 | 🐛 2 | 🌐 Elixir | 📅 2026-07-15
+* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,240 | 🐛 10 | 🌐 Ruby | 📅 2026-09-16
+* `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 604 | 🐛 6 | 🌐 Python | 📅 2026-08-16
+* `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 501 | 🐛 2 | 🌐 Elixir | 📅 2026-07-15
 * [Go](https://github.com/petaki/inertia-go) ⭐ 323 | 🐛 0 | 🌐 Go | 📅 2026-09-02
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 158 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-13
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2026-09-12
 * [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 22 | 🐛 2 | 🌐 PHP | 📅 2026-07-26
-* [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 10 | 🌐 Groovy | 📅 2026-08-25
+* [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 11 | 🌐 Groovy | 📅 2026-09-18
 
 ## Hooks
 
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
