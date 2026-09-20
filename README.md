@@ -42,9 +42,9 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,117 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,117 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,117 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,116 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,116 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,116 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-16
 
 ### Server-side
 
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
