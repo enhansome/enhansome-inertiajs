@@ -35,16 +35,16 @@
 * [Documentation](http://inertiajs.com) - Official website and documentation.
 * [Twitter](https://twitter.com/inertiajs) - Official Twitter account.
 * [Discord](https://discord.gg/gwgxN8Y) - Official Discord server.
-* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 65 | 🐛 3 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
+* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 67 | 🐛 3 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
 * [Organization](https://github.com/inertiajs) - Official GitHub organization.
 
 ## Adapters
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,118 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-16
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,118 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-16
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,118 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,121 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,121 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,121 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
 
 ### Server-side
 
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
