@@ -42,9 +42,9 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,121 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,121 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,121 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,122 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-22
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,122 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-22
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,122 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-22
 
 ### Server-side
 
@@ -57,7 +57,7 @@
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2026-09-12
-* [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 22 | 🐛 2 | 🌐 PHP | 📅 2026-07-26
+* [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 23 | 🐛 2 | 🌐 PHP | 📅 2026-07-26
 * [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 11 | 🌐 Groovy | 📅 2026-09-18
 
 ## Hooks
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
