@@ -42,9 +42,9 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,122 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-25
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,122 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-25
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,122 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-25
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,123 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-26
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,123 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-26
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,123 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-26
 
 ### Server-side
 
@@ -66,7 +66,7 @@
 
 ## Resources
 
-* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,794 | 🐛 18 | 🌐 PHP | 📅 2026-09-01 - Larave package for working with data objects, with built-in support for Inertia.
+* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,793 | 🐛 19 | 🌐 PHP | 📅 2026-09-01 - Larave package for working with data objects, with built-in support for Inertia.
 * `⭐` [Navigation](https://github.com/spatie/laravel-navigation) ⭐ 588 | 🐛 0 | 🌐 PHP | 📅 2026-01-31 - Laravel package for generating menus, breadcrumbs and other navigational elements.
 * `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
 * [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
