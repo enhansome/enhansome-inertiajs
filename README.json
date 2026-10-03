@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Vue.js",
-              "description": null,
+              "description": "inertiajs/inertia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "React",
-              "description": null,
+              "description": "inertiajs/inertia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "Svelte",
-              "description": null,
+              "description": "inertiajs/inertia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "Laravel",
-              "description": null,
+              "description": "inertiajs/inertia-laravel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "Rails",
-              "description": null,
+              "description": "inertiajs/inertia-rails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "Django",
-              "description": null,
+              "description": "inertiajs/inertia-django",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "Phoenix",
-              "description": null,
+              "description": "inertiajs/inertia-phoenix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -165,7 +165,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "petaki/inertia-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -190,7 +190,7 @@
             {
               "node_type": "item",
               "title": "Adonis",
-              "description": null,
+              "description": "adonisjs/inertia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -211,7 +211,7 @@
             {
               "node_type": "item",
               "title": "FastAPI",
-              "description": null,
+              "description": "hxjo/fastapi-inertia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -237,7 +237,7 @@
             {
               "node_type": "item",
               "title": "Flask",
-              "description": null,
+              "description": "j0ack/flask-inertia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -261,7 +261,7 @@
             {
               "node_type": "item",
               "title": "Echo",
-              "description": null,
+              "description": "kohkimakimoto/inertia-echo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -288,7 +288,7 @@
             {
               "node_type": "item",
               "title": "Symfony",
-              "description": null,
+              "description": "nytodev/inertia-bundle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -318,7 +318,7 @@
             {
               "node_type": "item",
               "title": "Grails",
-              "description": null,
+              "description": "matrei/grails-inertia-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:29:41.541Z",
+    "last_updated": "2026-10-03T04:51:54.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
