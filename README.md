@@ -58,7 +58,7 @@
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 29 | 🐛 0 | 🌐 Go | 📅 2026-09-12
 * [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 24 | 🐛 3 | 🌐 PHP | 📅 2026-07-26
-* [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 2 | 🌐 Groovy | 📅 2026-10-05
+* [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 2 | 🌐 Groovy | 📅 2026-10-06
 
 ## Hooks
 
