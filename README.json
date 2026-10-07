@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T10:13:25Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8127,
+                "stars": 8126,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -39,10 +39,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T10:13:25Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8127,
+                "stars": 8126,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T10:13:25Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8127,
+                "stars": 8126,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -91,7 +91,7 @@
                 "open_issues": 4,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2482,
+                "stars": 2483,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:39:57.142Z",
+    "last_updated": "2026-10-07T02:52:06.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
