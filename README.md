@@ -35,21 +35,21 @@
 * [Documentation](http://inertiajs.com) - Official website and documentation.
 * [Twitter](https://twitter.com/inertiajs) - Official Twitter account.
 * [Discord](https://discord.gg/gwgxN8Y) - Official Discord server.
-* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 68 | 🐛 3 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
+* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 69 | 🐛 3 | 🌐 Vue | 📅 2026-07-22 - Demonstration application made with Laravel and Vue.
 * [Organization](https://github.com/inertiajs) - Official GitHub organization.
 
 ## Adapters
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,126 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-08
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,126 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-08
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,126 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-08
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,125 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-09
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,125 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-09
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,125 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-09
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,481 | 🐛 4 | 🌐 PHP | 📅 2026-10-01
-* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,240 | 🐛 8 | 🌐 Ruby | 📅 2026-10-03
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,481 | 🐛 5 | 🌐 PHP | 📅 2026-10-01
+* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,240 | 🐛 8 | 🌐 Ruby | 📅 2026-10-09
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 607 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 502 | 🐛 0 | 🌐 Elixir | 📅 2026-10-08
 * [Go](https://github.com/petaki/inertia-go) ⭐ 328 | 🐛 0 | 🌐 Go | 📅 2026-09-02
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

@@ -17,11 +17,11 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:30:07Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-09T20:22:54Z",
+                "open_issues": 11,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8126,
+                "stars": 8125,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -38,11 +38,11 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:30:07Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-09T20:22:54Z",
+                "open_issues": 11,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8126,
+                "stars": 8125,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -59,11 +59,11 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:30:07Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-09T20:22:54Z",
+                "open_issues": 11,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8126,
+                "stars": 8125,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -88,7 +88,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-01T10:39:00Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
                 "stars": 2481,
@@ -108,7 +108,7 @@
                 "id": 207580518,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-03T14:35:14Z",
+                "last_commit": "2026-10-09T21:10:30Z",
                 "open_issues": 8,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:15:39.239Z",
+    "last_updated": "2026-10-10T02:55:16.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
