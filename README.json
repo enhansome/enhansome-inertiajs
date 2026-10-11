@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-09T20:22:54Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8125,
+                "stars": 8127,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -39,10 +39,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-09T20:22:54Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8125,
+                "stars": 8127,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-09T20:22:54Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8125,
+                "stars": 8127,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -133,7 +133,7 @@
                 "open_issues": 6,
                 "owner": "inertiajs",
                 "repo": "inertia-django",
-                "stars": 607,
+                "stars": 608,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "adonisjs",
                 "repo": "inertia",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:55:16.713Z",
+    "last_updated": "2026-10-11T02:24:30.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
