@@ -42,13 +42,13 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,127 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,127 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,127 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,128 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,128 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,128 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,481 | 🐛 5 | 🌐 PHP | 📅 2026-10-01
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,482 | 🐛 5 | 🌐 PHP | 📅 2026-10-01
 * `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,240 | 🐛 8 | 🌐 Ruby | 📅 2026-10-09
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 608 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 502 | 🐛 0 | 🌐 Elixir | 📅 2026-10-08
@@ -66,7 +66,7 @@
 
 ## Resources
 
-* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,798 | 🐛 22 | 🌐 PHP | 📅 2026-09-01 - Larave package for working with data objects, with built-in support for Inertia.
+* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,799 | 🐛 23 | 🌐 PHP | 📅 2026-09-01 - Larave package for working with data objects, with built-in support for Inertia.
 * `⭐` [Navigation](https://github.com/spatie/laravel-navigation) ⭐ 588 | 🐛 0 | 🌐 PHP | 📅 2026-01-31 - Laravel package for generating menus, breadcrumbs and other navigational elements.
 * `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
 * [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

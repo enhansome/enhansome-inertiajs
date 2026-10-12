@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8127,
+                "stars": 8128,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8127,
+                "stars": 8128,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 13,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8127,
+                "stars": 8128,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -91,7 +91,7 @@
                 "open_issues": 5,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2481,
+                "stars": 2482,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -360,10 +360,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-01T10:23:39Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1798,
+            "stars": 1799,
             "topics": [
               "laravel",
               "php"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T02:24:30.721Z",
+    "last_updated": "2026-10-12T02:49:03.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
@@ -409,7 +409,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-14T22:00:10Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "innocenzi",
       "repo": "awesome-inertiajs",
       "stars": 256,
