@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-15T21:18:01Z",
-                "open_issues": 16,
+                "open_issues": 19,
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8131,
@@ -39,7 +39,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-15T21:18:01Z",
-                "open_issues": 16,
+                "open_issues": 19,
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8131,
@@ -60,7 +60,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-15T21:18:01Z",
-                "open_issues": 16,
+                "open_issues": 19,
                 "owner": "inertiajs",
                 "repo": "inertia",
                 "stars": 8131,
@@ -133,7 +133,7 @@
                 "open_issues": 6,
                 "owner": "inertiajs",
                 "repo": "inertia-django",
-                "stars": 610,
+                "stars": 611,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -270,7 +270,7 @@
                 "id": 352534429,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T23:49:06Z",
+                "last_commit": "2026-10-19T00:42:25Z",
                 "open_issues": 0,
                 "owner": "kohkimakimoto",
                 "repo": "inertia-echo",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:42:08.324Z",
+    "last_updated": "2026-10-19T01:59:20.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
