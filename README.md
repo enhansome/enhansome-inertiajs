@@ -42,13 +42,13 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,131 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-20
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,131 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-20
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,131 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-20
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,133 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-21
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,133 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-21
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,133 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-21
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,484 | 🐛 6 | 🌐 PHP | 📅 2026-10-15
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,485 | 🐛 4 | 🌐 PHP | 📅 2026-10-21
 * `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,246 | 🐛 9 | 🌐 Ruby | 📅 2026-10-16
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 611 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 502 | 🐛 2 | 🌐 Elixir | 📅 2026-10-17
@@ -56,7 +56,7 @@
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 159 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-14
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
-* [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2026-10-19
+* [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 29 | 🐛 0 | 🌐 Go | 📅 2026-10-19
 * [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 27 | 🐛 1 | 🌐 PHP | 📅 2026-10-13
 * [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 3 | 🌐 Groovy | 📅 2026-10-20
 
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
