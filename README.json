@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8134,
+                "stars": 8135,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 19,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8134,
+                "stars": 8135,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 19,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8134,
+                "stars": 8135,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -112,7 +112,7 @@
                 "open_issues": 11,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -150,8 +150,8 @@
                 "id": 658439072,
                 "language": "Elixir",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T20:22:36Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-26T15:49:32Z",
+                "open_issues": 1,
                 "owner": "inertiajs",
                 "repo": "inertia-phoenix",
                 "stars": 502,
@@ -174,7 +174,7 @@
                 "id": 290590382,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-02T18:39:00Z",
+                "last_commit": "2026-10-26T14:38:36Z",
                 "open_issues": 0,
                 "owner": "petaki",
                 "repo": "inertia-go",
@@ -359,11 +359,11 @@
             "id": 367364180,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-22T15:04:39Z",
+            "last_commit": "2026-10-26T09:30:32Z",
             "open_issues": 26,
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1801,
+            "stars": 1799,
             "topics": [
               "laravel",
               "php"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:56:23.264Z",
+    "last_updated": "2026-10-27T02:34:16.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
