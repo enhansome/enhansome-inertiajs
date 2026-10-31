@@ -17,11 +17,11 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T21:36:52Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-30T21:47:44Z",
+                "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8140,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -38,11 +38,11 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T21:36:52Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-30T21:47:44Z",
+                "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8140,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -59,11 +59,11 @@
                 "id": 174200859,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T21:36:52Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-30T21:47:44Z",
+                "open_issues": 10,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8140,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -87,11 +87,11 @@
                 "id": 174395905,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-23T09:21:37Z",
+                "last_commit": "2026-10-30T21:44:38Z",
                 "open_issues": 3,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2485,
+                "stars": 2486,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -154,7 +154,7 @@
                 "open_issues": 1,
                 "owner": "inertiajs",
                 "repo": "inertia-phoenix",
-                "stars": 502,
+                "stars": 503,
                 "topics": [
                   "elixir",
                   "inertiajs"
@@ -363,7 +363,7 @@
             "open_issues": 27,
             "owner": "spatie",
             "repo": "laravel-data",
-            "stars": 1800,
+            "stars": 1801,
             "topics": [
               "laravel",
               "php"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T03:07:18.212Z",
+    "last_updated": "2026-10-31T02:53:18.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
