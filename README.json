@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T20:05:32Z",
-                "open_issues": 17,
+                "open_issues": 21,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8138,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -39,10 +39,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T20:05:32Z",
-                "open_issues": 17,
+                "open_issues": 21,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8138,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T20:05:32Z",
-                "open_issues": 17,
+                "open_issues": 21,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8138,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -327,7 +327,7 @@
                 "id": 551502208,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T02:42:57Z",
+                "last_commit": "2026-11-06T20:42:41Z",
                 "open_issues": 4,
                 "owner": "matrei",
                 "repo": "grails-inertia-plugin",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:50:00.575Z",
+    "last_updated": "2026-11-07T03:24:01.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
