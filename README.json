@@ -88,7 +88,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-11-02T15:38:45Z",
-                "open_issues": 4,
+                "open_issues": 7,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
                 "stars": 2487,
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:24:01.917Z",
+    "last_updated": "2026-11-08T02:52:24.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",

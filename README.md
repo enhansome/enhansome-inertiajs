@@ -48,7 +48,7 @@
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,487 | 🐛 4 | 🌐 PHP | 📅 2026-11-02
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,487 | 🐛 7 | 🌐 PHP | 📅 2026-11-02
 * `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,248 | 🐛 14 | 🌐 Ruby | 📅 2026-10-22
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 616 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 503 | 🐛 1 | 🌐 Elixir | 📅 2026-10-28
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
