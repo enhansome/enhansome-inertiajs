@@ -42,22 +42,22 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,143 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-03
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,143 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-03
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,143 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-03
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,144 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,144 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,144 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,488 | 🐛 7 | 🌐 PHP | 📅 2026-11-02
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,489 | 🐛 7 | 🌐 PHP | 📅 2026-11-02
 * `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,248 | 🐛 14 | 🌐 Ruby | 📅 2026-10-22
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 617 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 504 | 🐛 1 | 🌐 Elixir | 📅 2026-10-28
-* [Go](https://github.com/petaki/inertia-go) ⭐ 328 | 🐛 0 | 🌐 Go | 📅 2026-10-29
+* [Go](https://github.com/petaki/inertia-go) ⭐ 329 | 🐛 0 | 🌐 Go | 📅 2026-10-29
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 159 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-03
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2026-10-19
-* [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 28 | 🐛 0 | 🌐 PHP | 📅 2026-11-03
+* [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2026-11-03
 * [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 4 | 🌐 Groovy | 📅 2026-11-10
 
 ## Hooks
@@ -66,8 +66,8 @@
 
 ## Resources
 
-* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,801 | 🐛 24 | 🌐 PHP | 📅 2026-11-05 - Larave package for working with data objects, with built-in support for Inertia.
-* `⭐` [Navigation](https://github.com/spatie/laravel-navigation) ⭐ 589 | 🐛 0 | 🌐 PHP | 📅 2026-11-05 - Laravel package for generating menus, breadcrumbs and other navigational elements.
+* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,802 | 🐛 24 | 🌐 PHP | 📅 2026-11-05 - Larave package for working with data objects, with built-in support for Inertia.
+* `⭐` [Navigation](https://github.com/spatie/laravel-navigation) ⭐ 590 | 🐛 0 | 🌐 PHP | 📅 2026-11-05 - Laravel package for generating menus, breadcrumbs and other navigational elements.
 * `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
 * [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 * [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/IntelliJ Ultimate plugin for Inertia.js.
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
