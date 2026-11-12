@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8144,
+                "stars": 8143,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 23,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8144,
+                "stars": 8143,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 23,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8144,
+                "stars": 8143,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -200,10 +200,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T09:19:32Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "adonisjs",
                 "repo": "inertia",
-                "stars": 159,
+                "stars": 160,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T03:19:46.151Z",
+    "last_updated": "2026-11-12T04:30:23.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",

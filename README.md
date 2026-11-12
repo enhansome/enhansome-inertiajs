@@ -35,16 +35,16 @@
 * [Documentation](http://inertiajs.com) - Official website and documentation.
 * [Twitter](https://twitter.com/inertiajs) - Official Twitter account.
 * [Discord](https://discord.gg/gwgxN8Y) - Official Discord server.
-* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 69 | 🐛 2 | 🌐 Vue | 📅 2026-11-04 - Demonstration application made with Laravel and Vue.
+* [Kitchen sink](https://github.com/inertiajs/demo-v3) ⭐ 69 | 🐛 2 | 🌐 Vue | 📅 2026-11-11 - Demonstration application made with Laravel and Vue.
 * [Organization](https://github.com/inertiajs) - Official GitHub organization.
 
 ## Adapters
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,144 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,144 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,144 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,143 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,143 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,143 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-10
 
 ### Server-side
 
@@ -53,7 +53,7 @@
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 617 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 504 | 🐛 1 | 🌐 Elixir | 📅 2026-10-28
 * [Go](https://github.com/petaki/inertia-go) ⭐ 329 | 🐛 0 | 🌐 Go | 📅 2026-10-29
-* `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 159 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-03
+* `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 160 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-03
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2026-10-19
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
