@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8143,
+                "stars": 8142,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 23,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8143,
+                "stars": 8142,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 23,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8143,
+                "stars": 8142,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -91,7 +91,7 @@
                 "open_issues": 7,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2489,
+                "stars": 2488,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:30:23.483Z",
+    "last_updated": "2026-11-13T03:45:34.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
