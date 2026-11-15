@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8142,
+                "stars": 8141,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -42,7 +42,7 @@
                 "open_issues": 26,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8142,
+                "stars": 8141,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -63,7 +63,7 @@
                 "open_issues": 26,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8142,
+                "stars": 8141,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -91,7 +91,7 @@
                 "open_issues": 7,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2489,
+                "stars": 2490,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -112,7 +112,7 @@
                 "open_issues": 14,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1248,
+                "stars": 1249,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -154,7 +154,7 @@
                 "open_issues": 1,
                 "owner": "inertiajs",
                 "repo": "inertia-phoenix",
-                "stars": 504,
+                "stars": 506,
                 "topics": [
                   "elixir",
                   "inertiajs"
@@ -178,7 +178,7 @@
                 "open_issues": 0,
                 "owner": "petaki",
                 "repo": "inertia-go",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "go",
                   "golang",
@@ -301,7 +301,7 @@
                 "open_issues": 0,
                 "owner": "nytodev",
                 "repo": "inertia-bundle",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "inertiajs",
                   "php",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:43:34.050Z",
+    "last_updated": "2026-11-15T03:21:16.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
