@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T23:57:28Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8141,
+                "stars": 8139,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -39,10 +39,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T23:57:28Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8141,
+                "stars": 8139,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T23:57:28Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8141,
+                "stars": 8139,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -91,7 +91,7 @@
                 "open_issues": 7,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
-                "stars": 2490,
+                "stars": 2489,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -112,7 +112,7 @@
                 "open_issues": 14,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1249,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -327,7 +327,7 @@
                 "id": 551502208,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T22:56:57Z",
+                "last_commit": "2026-11-16T02:43:35Z",
                 "open_issues": 4,
                 "owner": "matrei",
                 "repo": "grails-inertia-plugin",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T03:21:16.172Z",
+    "last_updated": "2026-11-16T03:23:02.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
@@ -412,7 +412,7 @@
       "open_issues": 1,
       "owner": "innocenzi",
       "repo": "awesome-inertiajs",
-      "stars": 256,
+      "stars": 255,
       "topics": [
         "awesome",
         "awesome-list",
