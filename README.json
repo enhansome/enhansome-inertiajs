@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T23:57:28Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8142,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -39,10 +39,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T23:57:28Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8142,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T23:57:28Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "inertiajs",
                 "repo": "inertia",
-                "stars": 8139,
+                "stars": 8142,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -150,7 +150,7 @@
                 "id": 658439072,
                 "language": "Elixir",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T01:12:19Z",
+                "last_commit": "2026-11-16T19:44:37Z",
                 "open_issues": 1,
                 "owner": "inertiajs",
                 "repo": "inertia-phoenix",
@@ -199,8 +199,8 @@
                 "id": 719249436,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T09:19:32Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-16T09:20:06Z",
+                "open_issues": 7,
                 "owner": "adonisjs",
                 "repo": "inertia",
                 "stars": 160,
@@ -301,7 +301,7 @@
                 "open_issues": 0,
                 "owner": "nytodev",
                 "repo": "inertia-bundle",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "inertiajs",
                   "php",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T03:23:02.858Z",
+    "last_updated": "2026-11-17T05:22:45.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
