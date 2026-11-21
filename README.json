@@ -108,8 +108,8 @@
                 "id": 207580518,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-19T09:09:43Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-20T19:35:18Z",
+                "open_issues": 8,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
                 "stars": 1247,
@@ -154,7 +154,7 @@
                 "open_issues": 1,
                 "owner": "inertiajs",
                 "repo": "inertia-phoenix",
-                "stars": 505,
+                "stars": 506,
                 "topics": [
                   "elixir",
                   "inertiajs"
@@ -174,7 +174,7 @@
                 "id": 290590382,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-29T13:48:22Z",
+                "last_commit": "2026-11-20T09:55:48Z",
                 "open_issues": 0,
                 "owner": "petaki",
                 "repo": "inertia-go",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:31:52.847Z",
+    "last_updated": "2026-11-21T04:26:45.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",

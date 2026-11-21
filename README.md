@@ -49,10 +49,10 @@
 ### Server-side
 
 * `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,489 | 🐛 7 | 🌐 PHP | 📅 2026-11-02
-* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,247 | 🐛 9 | 🌐 Ruby | 📅 2026-11-19
+* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,247 | 🐛 8 | 🌐 Ruby | 📅 2026-11-20
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 618 | 🐛 6 | 🌐 Python | 📅 2026-08-16
-* `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 505 | 🐛 1 | 🌐 Elixir | 📅 2026-11-18
-* [Go](https://github.com/petaki/inertia-go) ⭐ 329 | 🐛 0 | 🌐 Go | 📅 2026-10-29
+* `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 506 | 🐛 1 | 🌐 Elixir | 📅 2026-11-18
+* [Go](https://github.com/petaki/inertia-go) ⭐ 329 | 🐛 0 | 🌐 Go | 📅 2026-11-20
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 160 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-19
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
