@@ -87,7 +87,7 @@
                 "id": 174395905,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-02T15:38:45Z",
+                "last_commit": "2026-11-21T16:35:30Z",
                 "open_issues": 7,
                 "owner": "inertiajs",
                 "repo": "inertia-laravel",
@@ -112,7 +112,7 @@
                 "open_issues": 8,
                 "owner": "inertiajs",
                 "repo": "inertia-rails",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:14:39.967Z"
@@ -270,7 +270,7 @@
                 "id": 352534429,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-19T00:42:25Z",
+                "last_commit": "2026-11-21T04:33:15Z",
                 "open_issues": 0,
                 "owner": "kohkimakimoto",
                 "repo": "inertia-echo",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:26:45.694Z",
+    "last_updated": "2026-11-22T03:40:37.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Inertia.js resources",
