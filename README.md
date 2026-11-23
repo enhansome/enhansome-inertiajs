@@ -42,23 +42,23 @@
 
 ### Client-side
 
-* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,147 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-13
-* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,147 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-13
-* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,147 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-13
+* `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3) ⭐ 8,146 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-13
+* `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react) ⭐ 8,146 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-13
+* `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte) ⭐ 8,146 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-13
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,489 | 🐛 7 | 🌐 PHP | 📅 2026-11-21
-* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,248 | 🐛 8 | 🌐 Ruby | 📅 2026-11-20
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,489 | 🐛 6 | 🌐 PHP | 📅 2026-11-22
+* `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,249 | 🐛 9 | 🌐 Ruby | 📅 2026-11-20
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 618 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 506 | 🐛 1 | 🌐 Elixir | 📅 2026-11-18
-* [Go](https://github.com/petaki/inertia-go) ⭐ 329 | 🐛 0 | 🌐 Go | 📅 2026-11-20
+* [Go](https://github.com/petaki/inertia-go) ⭐ 328 | 🐛 0 | 🌐 Go | 📅 2026-11-20
 * `⭐` [Adonis](https://github.com/adonisjs/inertia) ⭐ 160 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-19
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2026-11-21
 * [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 29 | 🐛 0 | 🌐 PHP | 📅 2026-11-03
-* [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 4 | 🌐 Groovy | 📅 2026-11-20
+* [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 4 | 🌐 Groovy | 📅 2026-11-23
 
 ## Hooks
 
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
