@@ -48,7 +48,7 @@
 
 ### Server-side
 
-* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,489 | 🐛 6 | 🌐 PHP | 📅 2026-11-22
+* `💜` [Laravel](https://github.com/inertiajs/inertia-laravel) ⭐ 2,490 | 🐛 6 | 🌐 PHP | 📅 2026-11-23
 * `💜` [Rails](https://github.com/inertiajs/inertia-rails) ⭐ 1,249 | 🐛 9 | 🌐 Ruby | 📅 2026-11-20
 * `💜` [Django](https://github.com/inertiajs/inertia-django) ⭐ 618 | 🐛 6 | 🌐 Python | 📅 2026-08-16
 * `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix) ⭐ 506 | 🐛 1 | 🌐 Elixir | 📅 2026-11-18
@@ -57,7 +57,7 @@
 * [FastAPI](https://github.com/hxjo/fastapi-inertia) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2025-05-25
 * [Flask](https://github.com/j0ack/flask-inertia) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * [Echo](https://github.com/kohkimakimoto/inertia-echo) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2026-11-21
-* [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 29 | 🐛 0 | 🌐 PHP | 📅 2026-11-03
+* [Symfony](https://github.com/nytodev/inertia-bundle) ⭐ 30 | 🐛 0 | 🌐 PHP | 📅 2026-11-03
 * [Grails](https://github.com/matrei/grails-inertia-plugin) ⭐ 13 | 🐛 4 | 🌐 Groovy | 📅 2026-11-23
 
 ## Hooks
@@ -66,7 +66,7 @@
 
 ## Resources
 
-* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,802 | 🐛 24 | 🌐 PHP | 📅 2026-11-05 - Larave package for working with data objects, with built-in support for Inertia.
+* `⭐` [Data](https://github.com/spatie/laravel-data) ⭐ 1,803 | 🐛 24 | 🌐 PHP | 📅 2026-11-05 - Larave package for working with data objects, with built-in support for Inertia.
 * `⭐` [Navigation](https://github.com/spatie/laravel-navigation) ⭐ 589 | 🐛 0 | 🌐 PHP | 📅 2026-11-05 - Laravel package for generating menus, breadcrumbs and other navigational elements.
 * `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
 * [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
@@ -85,4 +85,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
